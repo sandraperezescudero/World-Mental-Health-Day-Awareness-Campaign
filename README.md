@@ -70,6 +70,7 @@ In order to account for 80% of the estimated total number of people diagnosed wi
 
 
 **2. Donor Presentation:** to engage potential donors to contribute to Mental Health, highlighting the costs and benefits of investing in it. 
+
 **3. Tableau Dashboard and Infographic:** interactive Tableau dashboard and infographic displaying prevalence health disorder's demographic data (country, sex, age group) per number of cases and worldwide percentages.
 
 
