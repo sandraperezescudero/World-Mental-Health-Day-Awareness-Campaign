@@ -19,7 +19,9 @@ The dataset covers 204 countries and includes the estimated number and percentag
 The columns included are:
 
 **Metric:**
+
 **Percent:** percent of the population diagnosed
+
 **Number:** number of people diagnosed
 
 **Location:**
