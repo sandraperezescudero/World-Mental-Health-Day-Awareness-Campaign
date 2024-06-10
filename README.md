@@ -1,6 +1,6 @@
 **World Mental Health Day Awareness Campaign Ad Budget Allocation**
 
-This project was done during the Data Analysis Bootcamp @ Masterschool and it consists of:
+This project was part of the Data Analysis Bootcamp @ Masterschool and it consisted of:
 
 **1. Marketing campaign Budget Allocation**
 
