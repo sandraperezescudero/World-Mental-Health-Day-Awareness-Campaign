@@ -58,12 +58,19 @@ In order to optimize the budget while reducing the number of ads to be created, 
 In order to account for 80% of the estimated total number of people diagnosed with a mental disorder, we only need to target 165 of these segments (13%). The budget allocation file has the structure shown below, with the name of the combined segment, estimated number of people diagnosed with a mental disorder, and the % of budget that should be allocated to that segment as a result.
 
 **Appendix**
+
 **Report:** https://docs.google.com/document/d/1z0l6wxyLDqWzGGvdcNu22ufeAobnLI_qtqlS4Aq-6qw/edit?usp=sharing
+
 **Insights Prevalence spreadsheet file:** https://docs.google.com/spreadsheets/d/18oceWZn0FIVGa871BmKQ85MM1SuZtvWpoajELffUiXY/edit?usp=sharing
+
 **Budget allocation spreadsheet file:** https://docs.google.com/spreadsheets/d/1_-8tNlnjfDAwrt7RT9p7_AXpZxCe9VytiQeE9wg2zFY/edit?usp=sharing
+
 **Donor Presentation:** https://docs.google.com/presentation/d/1LlUVYAKO-9j36WrV4U-WfIflaYveNPpBLsUp8L6VcfE/edit?usp=sharing
+
 **Tableau Dashboard:** https://public.tableau.com/views/WorldMentalHealthDayAwarenessCampaign-DashboardforMentalHealthStatistics/Dashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+
 **Tableau Infographic:** https://public.tableau.com/views/WorldMentalHealthDayAwarenessCampaign-MentalHealthInfographic/TheCaseforMentalHealthInvestment?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+
 **Global Burden of Disease results tool:** https://vizhub.healthdata.org/gbd-results/
 
 
