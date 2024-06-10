@@ -1,9 +1,14 @@
 **World Mental Health Day Awareness Campaign Ad Budget Allocation**
 
+This project was done during the Data Analysis Bootcamp @ Masterschool and it consists of:
+
+**1. Marketing campaign Budget Allocation**
+
 **Context**
 
 We have an allotted budget to spend on social media ads for the upcoming global awareness campaign for World Mental Health Day. In order to bring awareness of mental health to the audiences that could benefit the most, we have chosen to optimise our budget based on data on the prevalence of mental health disorders.
-The analysis below outlines the insights about mental health prevalence and methodology for allocating our budget. The final allocation results file can be found here.
+
+The analysis below outlines the insights about mental health prevalence and methodology for allocating our budget.
 
 
 **Dataset**
@@ -44,7 +49,7 @@ Female
 **Methodology**
 
 We chose to target audiences with a higher mental health prevalence. While there is the issue of underdiagnosis for mental health disorders, we reasoned that the statistical estimation model created for the study may try to account for it.
-We used spreadsheets for this analysis. See Appendix for the files.
+We used spreadsheets for this analysis.
 
 
 **Insights on Prevalence**
@@ -64,9 +69,17 @@ In order to optimize the budget while reducing the number of ads to be created, 
 In order to account for 80% of the estimated total number of people diagnosed with a mental disorder, we only need to target 165 of these segments (13%). The budget allocation file has the structure shown below, with the name of the combined segment, estimated number of people diagnosed with a mental disorder, and the % of budget that should be allocated to that segment as a result.
 
 
+**2. Donor Presentation:** to engage potential donors to contribute to Mental Health, highlighting the costs and benefits of investing in it. 
+**3. Tableau Dashboard and Infographic:** interactive Tableau dashboard and infographic displaying prevalence health disorder's demographic data (country, sex, age group) per number of cases and worldwide percentages.
+
+
+
+See the Appendix below for links to all the files.
+
+
 **Appendix**
 
-**Report:** https://docs.google.com/document/d/1z0l6wxyLDqWzGGvdcNu22ufeAobnLI_qtqlS4Aq-6qw/edit?usp=sharing
+**Full report:** https://docs.google.com/document/d/1z0l6wxyLDqWzGGvdcNu22ufeAobnLI_qtqlS4Aq-6qw/edit?usp=sharing
 
 **Insights Prevalence spreadsheet file:** https://docs.google.com/spreadsheets/d/18oceWZn0FIVGa871BmKQ85MM1SuZtvWpoajELffUiXY/edit?usp=sharing
 
